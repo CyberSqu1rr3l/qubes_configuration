@@ -11,6 +11,6 @@ INSTALLATION
 
 LINKS
 -----
-Official News Page: https://www.qubes-os.org/news/2021/11/12/new-qubes-application-menu/
+Official News Page: https://www.qubes-os.org/news/2021/11/12/new-qubes-application-menu/ \
 Official GitHub Repo: https://github.com/QubesOS/qubes-desktop-linux-menu#how-to-run
 
