@@ -34,8 +34,8 @@ Move window to left workspace       : Shift+Ctrl+Alt+Left
 Move window to right workspace      : Shift+Ctrl+Alt+Right
 Tile window to the left             : Super+Left
 Tile window to the right            : Super+Right
-Left workspace			            : Ctrl+Alt+Left
-Right workspace			            : Ctrl+Alt+Right
+Left workspace                      : Ctrl+Alt+Left
+Right workspace	                    : Ctrl+Alt+Right
 ```
 
 PANEL
@@ -55,16 +55,16 @@ Battery Monitor                     : Display percentage and power
 APPLICATION SHORTCUTS
 ---------------------
 ```text
-qubes-qube-manager		            : Super+M
-qubes-update-gui		            : Super+U
-xfce4-appfinder			            : Shift+Super+A
+qubes-qube-manager                  : Super+M
+qubes-update-gui                    : Super+U
+xfce4-appfinder                     : Shift+Super+A
 xfce4-appfinder --collapsed         : Super+A
 xfce4-screenshooter -f              : Shift+Print
 xfce4-screenshooter                 : Print
-xfce4-settings-manager		        : Super+S
+xfce4-settings-manager              : Super+S
 xfce4-terminal                      : Super+T
 xfdesktop --menu                    : Ctrl+Escape
-xflock4				                : Ctrl+Alt+Delete
+xflock4                             : Ctrl+Alt+Delete
 ```
 
 LAYOUT
