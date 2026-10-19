@@ -1,4 +1,4 @@
-![Qubes OS Configuration](.banner.png)
+![Qubes OS Configuration](banner.png)
 
 Description
 -----------------------------------------------------------------------------------------
