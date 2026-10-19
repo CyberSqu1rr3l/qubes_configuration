@@ -36,11 +36,11 @@ weaken that isolation or introduce unnecessary risks. Please understand the foll
 considerations when using scripts or configurations from this repository.
 
 1. **Understand what you're running.** Never execute unfamiliar scripts without reviewing their contents.
-2. **Be cautious with dom0:** The administrative domain is highly privileged, where only trusted code should be executed.
+2. **Be cautious with dom0:** The administrative domain is highly privileged, run only trusted code here.
 3. **Respect compartmentalization:** Avoid creating unnecessary communication channels between qubes.
 4. **Back up your system:** Always create backups before making significant changes.
-5. **Adapt configurations to your environment:** Hardware, installed templates, and Qubes OS versions may differ.
-6. **Prefer official documentation:** Consult the Qubes OS documentation when modifying security-sensitive settings.
+5. **Adapt configurations to your environment:** Hardware, templates, and Qubes OS versions may differ.
+6. **Prefer official documentation:** Consult the Qubes OS documentation for security-sensitive settings.
 
 These documented configurations are provided for personal use. Therefore, they may
 not be suitable for every system or threat model. Use them at your own risk and review
